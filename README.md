@@ -20,7 +20,7 @@
 
 ## <span style="color:green; font-size:1.8em; font-style:italic;">Live Demo</span>
 
-<span style="color:green; font-style:italic;">Try the live demo here: <span style="color:red;">[Live Demo Link](https://example.com)</span></span>
+<span style="color:green; font-style:italic;">Try the live demo here: <span style="color:red;">[Live Demo Link](https://eric428-a.github.io/Screensnap-Recorder/)</span></span>
 
 ---
 
@@ -70,4 +70,4 @@
 
 ## <span style="color:green; font-size:1.8em; font-style:italic;">Author</span>
 
-<span style="color:green; font-style:italic;">_Created and maintained by_ <span style="color:red;">Eric Mwaniki</span></span>
+<span style="color:green; font-style:italic;">_Created and maintained by_ <span style="color:red;">ericmwaniki2004@gmail.com</span></span>
