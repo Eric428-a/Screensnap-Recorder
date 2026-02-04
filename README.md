@@ -1,55 +1,73 @@
-*ScreenSnap Recorder*
+# <span style="color:green; font-size:2.2em; font-style:italic;">ScreenSnap Recorder</span>
 
-*A modern web-based screen capture and recorder that lets you <span style="color:red">record your screen</span> with audio, preview recordings instantly, and download videos effortlessly. Built entirely with HTML5, JavaScript, and CSS, it runs fully in the browser, no installation or server required.*
+---
 
-*Key Features*
+## <span style="color:green; font-size:1.8em; font-style:italic;">Project Description</span>
 
-*- Capture your screen with audio in a few clicks*
-*- Instant playback of recordings directly in the browser*
-*- Download videos in <span style="color:red">.webm</span> format automatically*
-*- Fully front-end; no server required*
-*- Lightweight and easy to use*
-*- Works on Chrome, Edge, and Firefox (Safari support limited)*
+<span style="color:green; font-style:italic;">_ScreenSnap Recorder_ is a <span style="color:green; font-weight:bold;">powerful</span> and <span style="color:green; font-weight:bold;">user-friendly</span> tool designed to capture your screen activities in high quality. With a clean interface and smooth functionality, you can record tutorials, presentations, or gameplay effortlessly. The recordings can be saved in multiple formats and shared instantly.</span>
 
-*Live Demo*
+---
 
-*Run the app locally by opening the <span style="color:red">ScreenSnapRecorder.html</span> file in your browser, or deploy on GitHub Pages for online access.*
+## <span style="color:green; font-size:1.8em; font-style:italic;">Key Features</span>
 
-*How to Use*
+<span style="color:green; font-style:italic;">- <span style="color:red;">Start Recording</span> and <span style="color:red;">Stop Recording</span> buttons for easy control.</span>  
+<span style="color:green; font-style:italic;">- Save recordings in <span style="color:red;">.mp4</span> or <span style="color:red;">.gif</span> formats.</span>  
+<span style="color:green; font-style:italic;">- Capture full screen or selected <span style="color:red;">regions</span>.</span>  
+<span style="color:green; font-style:italic;">- Lightweight and fast performance.</span>  
+<span style="color:green; font-style:italic;">- Option to add <span style="color:red;">audio narration</span> during recording.</span>
 
-*1. Click <span style="color:red">Start Recording</span> to begin capturing your screen.*
-*2. Click <span style="color:red">Stop Recording</span> to end the session.*
-*3. Preview your recording in the built-in video player.*
-*4. Automatically download your recording for offline use.*
+---
 
-*Project Files*
+## <span style="color:green; font-size:1.8em; font-style:italic;">Live Demo</span>
 
-*- <span style="color:red">ScreenSnapRecorder.html</span> — main HTML file with embedded JS and basic CSS*
-*- styles.css (optional) — custom styling*
-*- script.js (optional) — separate JavaScript logic for cleaner code*
+<span style="color:green; font-style:italic;">Try the live demo here: <span style="color:red;">[Live Demo Link](https://example.com)</span></span>
 
-*Requirements*
+---
 
-*- Modern browser (Chrome, Edge, Firefox)*
-*- HTTPS if deployed online (required for screen capture APIs)*
+## <span style="color:green; font-size:1.8em; font-style:italic;">How to Use</span>
 
-*Deployment on GitHub Pages*
+<span style="color:green; font-style:italic;">1. Click the <span style="color:red;">Start Recording</span> button to begin capturing your screen.</span>  
+<span style="color:green; font-style:italic;">2. Choose the <span style="color:red;">screen area</span> or full screen mode.</span>  
+<span style="color:green; font-style:italic;">3. Click <span style="color:red;">Stop Recording</span> to end the session.</span>  
+<span style="color:green; font-style:italic;">4. Save your recording as <span style="color:red;">.mp4</span> or <span style="color:red;">.gif</span>.</span>  
+<span style="color:green; font-style:italic;">5. Share or edit your recording as needed.</span>
 
-*1. Create a new repository (e.g., <span style="color:red">screensnap-recorder</span>).*
-*2. Upload your HTML file (and optional CSS/JS files).*
-*3. Go to Settings -> Pages, set the source branch to main and folder to /root.*
-*4. Access your live app at:*
-*https://<username>.github.io/screensnap-recorder/<span style="color:red">ScreenSnapRecorder.html</span>*
+---
 
-*It is recommended to rename ScreenSnapRecorder.html to index.html to make the URL cleaner.*
+## <span style="color:green; font-size:1.8em; font-style:italic;">Project Files</span>
 
-*License*
+<span style="color:green; font-style:italic;">The project contains the following key files:</span>
 
-*MIT License — free to use, modify, and share.*
+- <span style="color:red;">index.html</span> - <span style="color:green; font-style:italic;">Main webpage for recording interface</span>  
+- <span style="color:red;">app.js</span> - <span style="color:green; font-style:italic;">Handles recording logic and controls</span>  
+- <span style="color:red;">styles.css</span> - <span style="color:green; font-style:italic;">Stylizes the interface for clean visuals</span>  
+- <span style="color:red;">utils/audio.js</span> - <span style="color:green; font-style:italic;">Handles audio recording and playback</span>
 
-*Author*
+---
 
-*Eric Mwaniki — Machine Learning and Software Engineer at GENIE AI Inc*
-*Email: <span style="color:red">[ericmwaniki2004@gmail.com](mailto:ericmwaniki2004@gmail.com)</span>*
-*GitHub Personal Profile: [https://github.com/Eric428-a](https://github.com/Eric428-a)*
-*GENIE AI Profile: [https://github.com/eric-genie-ai](https://github.com/eric-genie-ai)*
+## <span style="color:green; font-size:1.8em; font-style:italic;">Requirements</span>
+
+<span style="color:green; font-style:italic;">- Modern web browser (Chrome, Firefox, Edge)</span>  
+<span style="color:green; font-style:italic;">- Optional microphone for audio recording</span>  
+<span style="color:green; font-style:italic;">- Basic knowledge of <span style="color:red;">HTML</span>, <span style="color:red;">CSS</span>, and <span style="color:red;">JavaScript</span> to customize</span>
+
+---
+
+## <span style="color:green; font-size:1.8em; font-style:italic;">Deployment on GitHub Pages</span>
+
+<span style="color:green; font-style:italic;">1. Fork or clone the repository.</span>  
+<span style="color:green; font-style:italic;">2. Go to <span style="color:red;">Settings → Pages</span> in your GitHub repository.</span>  
+<span style="color:green; font-style:italic;">3. Select the <span style="color:red;">main</span> branch and root folder.</span>  
+<span style="color:green; font-style:italic;">4. Save settings and your project will be live at <span style="color:red;">https://yourusername.github.io/ScreenSnapRecorder</span>.</span>
+
+---
+
+## <span style="color:green; font-size:1.8em; font-style:italic;">License</span>
+
+<span style="color:green; font-style:italic;">This project is licensed under the <span style="color:red;">MIT License</span>. See the <span style="color:red;">LICENSE</span> file for details.</span>
+
+---
+
+## <span style="color:green; font-size:1.8em; font-style:italic;">Author</span>
+
+<span style="color:green; font-style:italic;">_Created and maintained by_ <span style="color:red;">Eric Mwaniki</span></span>
