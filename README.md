@@ -1,10 +1,10 @@
-*# ScreenSnap Recorder*
+*ScreenSnap Recorder*
 
-*A modern, web-based screen capture and recorder that lets you record your screen with audio, preview recordings instantly, and download videos effortlessly. Built entirely with HTML5, JavaScript, and CSS, it runs fully in the browser—no installation or server required.*
+*A modern web-based screen capture and recorder that lets you record your screen with audio, preview recordings instantly, and download videos effortlessly. Built entirely with HTML5, JavaScript, and CSS, it runs fully in the browser, no installation or server required.*
 
 *---*
 
-*## Key Features*
+*Key Features*
 
 *- Capture your screen with audio in a few clicks*
 *- Instant playback of recordings directly in the browser*
@@ -15,13 +15,13 @@
 
 *---*
 
-*## Live Demo*
+*Live Demo*
 
 *Run the app locally by opening the ScreenSnapRecorder.html file in your browser, or deploy on GitHub Pages for online access.*
 
 *---*
 
-*## How to Use*
+*How to Use*
 
 *1. Click Start Recording to begin capturing your screen.*
 *2. Click Stop Recording to end the session.*
@@ -30,7 +30,7 @@
 
 *---*
 
-*## Project Files*
+*Project Files*
 
 *- ScreenSnapRecorder.html — main HTML file with embedded JS and basic CSS*
 *- styles.css (optional) — custom styling*
@@ -38,40 +38,35 @@
 
 *---*
 
-*## Requirements*
+*Requirements*
 
 *- Modern browser (Chrome, Edge, Firefox)*
 *- HTTPS if deployed online (required for screen capture APIs)*
 
 *---*
 
-*## Deployment on GitHub Pages*
+*Deployment on GitHub Pages*
 
 *1. Create a new repository (e.g., screensnap-recorder).*
 *2. Upload your HTML file (and optional CSS/JS files).*
 *3. Go to Settings -> Pages, set the source branch to main and folder to /root.*
 *4. Access your live app at:*
 
-_```
-https://<username>.github.io/screensnap-recorder/ScreenSnapRecorder.html
+*https://<username>.github.io/screensnap-recorder/ScreenSnapRecorder.html*
 
-```_
+*It is recommended to rename ScreenSnapRecorder.html to index.html to make the URL cleaner.*
 
-_It is recommended to rename ScreenSnapRecorder.html to index.html to make the URL cleaner._
+*---*
 
-_---_
+*License*
 
-_## License_
+*MIT License — free to use, modify, and share.*
 
-_MIT License — free to use, modify, and share._
+*---*
 
-_---_
+*Author*
 
-_## Author_
-
-_Eric Mwaniki — Machine Learning and Software Engineer at GENIE AI Inc_  
-_Email: ericmwaniki2004@gmail.com_  
-_GitHub Personal Profile: https://github.com/Eric428-a_  
-_GENIE AI Profile: https://github.com/eric-genie-ai_
-
-```
+*Eric Mwaniki — Machine Learning and Software Engineer at GENIE AI Inc*
+*Email: [ericmwaniki2004@gmail.com](mailto:ericmwaniki2004@gmail.com)*
+*GitHub Personal Profile: [https://github.com/Eric428-a](https://github.com/Eric428-a)*
+*GENIE AI Profile: [https://github.com/eric-genie-ai](https://github.com/eric-genie-ai)*
